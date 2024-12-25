@@ -1,7 +1,5 @@
 # Pneumonia-Detection-using-Deep-Learning
 
-# Pneumonia Detection Using Machine Learning
-
 ## Overview
 This repository contains a Jupyter Notebook file, **PneumoniaDetector.ipynb**, that provides an end-to-end implementation of a machine learning pipeline for detecting pneumonia from medical imaging data. The notebook is particularly useful for healthcare professionals, researchers, and data scientists looking to automate and enhance diagnostic accuracy using artificial intelligence.
 
